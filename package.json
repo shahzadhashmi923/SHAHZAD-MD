@@ -1,0 +1,8 @@
+{
+  "name": "shahzad-md",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
